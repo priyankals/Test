@@ -1,0 +1,46 @@
+Project
+  ↓
+cd C:\xampp\htdocs\KIMS
+  ↓
+git status
+  ↓
+git init
+  ↓
+Check .gitignore
+  ↓
+type .gitignore
+  ↓
+git status
+  ↓
+git add .
+  ↓
+git commit -m "Initial commit"
+  ↓
+Create GitHub repository
+  ↓
+git remote add origin https://github.com/USERNAME/REPOSITORY.git
+  ↓
+git branch -M main
+  ↓
+git push -u origin main
+
+Command:
+cd C:\xampp\htdocs\KIMS
+
+git status
+
+git init
+
+type .gitignore
+
+git status
+
+git add .
+
+git commit -m "Initial commit"
+
+git remote add origin https://github.com/USERNAME/REPOSITORY.git
+
+git branch -M main
+
+git push -u origin main

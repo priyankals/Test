@@ -1,0 +1,39 @@
+Already connected project → Upload changes
+
+Project
+  ↓
+cd C:\xampp\htdocs\KIMS
+  ↓
+git status
+  ↓
+git remote -v        ← Check GitHub connection
+  ↓
+Check .gitignore
+  ↓
+git status
+  ↓
+git add .
+  ↓
+git commit -m "Update project"
+  ↓
+git branch -M main   ← Only if needed
+  ↓
+git push
+
+cd C:\xampp\htdocs\KIMS
+
+git status
+
+git remote -v
+
+type .gitignore
+
+git status
+
+git add .
+
+git commit -m "Update project"
+
+git branch -M main
+
+git push
